@@ -1,4 +1,4 @@
-# [Name of the project](www.google.com)
+# [CityParking](https://www.google.com)
 
 ## Goals:
 
@@ -7,11 +7,15 @@
 - etc
 
 ## Features:
-- Feature
+- Non
 
 ### Task:
-- [x] task completed
-- [ ] task incompleted
+- [ ] Create APP logo
+- [ ] Create APP slogan
+- [ ] Splash Screen
+- [ ] Create Feature Section 
+- [ ] Create "Fake" Data
+- [ ] Create "Fake" Social Pages
 
 ### Developers:
-- [Name](www.github.com)
+- [Francisco Martinho](https://github.com/FJ-RATO)
