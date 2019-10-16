@@ -73,6 +73,7 @@ input, select, textarea {
 }
 
 /* Basic */
+	
 
 	@-ms-viewport {
 		width: device-width;
@@ -129,6 +130,12 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.65;
 	}
+
+		.column {
+		  float: center;
+		  width: 20%;
+		  padding: 10px;
+		}
 
 		@media screen and (max-width: 1680px) {
 
