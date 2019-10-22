@@ -2646,8 +2646,9 @@ input, select, textarea {
 /* Avatar */
 	.avatar{
 		border-radius: 100%;
-		height: 250px;
-		width: 250px;
+		height: 190px;
+		width: 190px;
+		margin-right: 2px;	
 	}
 
 /* Icons */
