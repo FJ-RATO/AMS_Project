@@ -2818,7 +2818,8 @@ input, select, textarea {
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.40em 0.40em;
+			font-size: 0.85em;
 		}
 
 		table th {
