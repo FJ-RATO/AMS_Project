@@ -1,4 +1,4 @@
-# [CityParking](https://www.google.com)
+# [CityParking](https://fj-rato.github.io/AMS_Project.github.io/)
 
 ## Goals:
 
@@ -11,8 +11,8 @@
 
 ### Task:
 - [ ] Create APP logo
-- [ ] Create APP slogan
-- [ ] Splash Screen
+- [X] Create APP slogan
+- [X] Splash Screen
 - [ ] Create Feature Section 
 - [ ] Create "Fake" Data
 - [ ] Create "Fake" Social Pages
