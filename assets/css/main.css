@@ -4170,3 +4170,7 @@ input, select, textarea {
 		}
 
 	}
+
+	.submissions_cursor:hover{
+		background-color: green;
+	}
