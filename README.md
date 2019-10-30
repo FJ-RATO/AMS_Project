@@ -2,20 +2,18 @@
 
 ## Goals:
 
-- Objective 1
-- Objective 2
-- etc
+- Create an invester website
+- Create a submission section
+- Create custom error pages
 
 ## Features:
 - Non
 
 ### Task:
-- [ ] Create APP logo
+- [X] Create APP logo
 - [X] Create APP slogan
 - [X] Splash Screen
-- [ ] Create Feature Section 
-- [ ] Create "Fake" Data
-- [ ] Create "Fake" Social Pages
+- [X] Create Feature Section 
 
 ### Developers:
 - [Francisco Martinho](https://github.com/FJ-RATO)
