@@ -11,3 +11,15 @@ p,a{
 .icon{
 	color:#FFFFFF;
 }
+
+#banner{
+	z-index: 1;
+}
+
+#vid{
+	position: absolute;
+	width: 15%;
+	z-index: -1;
+	top: 2%;
+	right: 25%;
+}
