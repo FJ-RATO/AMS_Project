@@ -17,5 +17,6 @@ p,a{
 }
 
 #vid{
-	z-index: 1;
+	width: 40%;
+	margin-right: 10%;
 }
