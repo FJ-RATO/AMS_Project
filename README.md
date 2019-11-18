@@ -1,18 +1,30 @@
 # [CityParking](https://fj-rato.github.io/AMS_Project.github.io/)
+## Website
 
-## Goals:
-- Create an invester website
-- Create a submission section
-- Create custom error pages
-
-## Features:
-- Non
+### Goals:
+- Have an invester website
+- Have a submission section
+- Have custom error pages
+- Have a video prototype
 
 ### Task:
-- [X] Create APP logo
 - [X] Create APP slogan
 - [X] Splash Screen
-- [X] Create Feature Section 
+- [X] Create an app prototype
+
+## APP
+
+### Goals:
+- Have a login page
+- Have a create user page
+- Have a payment page
+- Have a profile dashboard
+- Have a search bar
+- Have a map
+
+### Task:
+- [ ] Implement Fire Base 
+- [ ] Create the front end
 
 ### Developers:
 - [Francisco Martinho](https://github.com/FJ-RATO)
