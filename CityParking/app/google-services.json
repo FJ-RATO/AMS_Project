@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695213111451",
+    "firebase_url": "https://ciryparking.firebaseio.com",
+    "project_id": "ciryparking",
+    "storage_bucket": "ciryparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695213111451:android:3a3dfb9b81036384e46e3e",
+        "android_client_info": {
+          "package_name": "com.example.cityparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695213111451-obh4l51951amlkeiu39qe8kpdv4dgkc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRU9oSfwZk7XOihnMVuwqjFkcDGACkAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695213111451-obh4l51951amlkeiu39qe8kpdv4dgkc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
