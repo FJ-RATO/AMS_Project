@@ -23,8 +23,8 @@
 - Have a map
 
 ### Task:
-- [ ] Implement Fire Base 
-- [ ] Create the front end
+- [X] Implement Fire Base 
+- [X] Create the front end
 
 ### Developers:
 - [Francisco Martinho](https://github.com/FJ-RATO)
